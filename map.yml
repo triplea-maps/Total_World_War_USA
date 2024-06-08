@@ -1,0 +1,4 @@
+map_name: Total_World_War_USA
+games:
+- {game_name: 'Total World War: USA', file_name: Total_World_War_USA.xml}
+version: 0
